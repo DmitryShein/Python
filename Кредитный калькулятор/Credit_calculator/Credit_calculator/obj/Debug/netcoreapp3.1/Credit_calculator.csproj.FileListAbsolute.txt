@@ -1,9 +1,0 @@
-C:\Учёба\Практика\Credit_calculator\Credit_calculator\bin\Debug\netcoreapp3.1\Credit_calculator.deps.json
-C:\Учёба\Практика\Credit_calculator\Credit_calculator\bin\Debug\netcoreapp3.1\Credit_calculator.dll
-C:\Учёба\Практика\Credit_calculator\Credit_calculator\bin\Debug\netcoreapp3.1\Credit_calculator.pdb
-C:\Учёба\Практика\Credit_calculator\Credit_calculator\obj\Debug\netcoreapp3.1\Credit_calculator.csproj.AssemblyReference.cache
-C:\Учёба\Практика\Credit_calculator\Credit_calculator\obj\Debug\netcoreapp3.1\Credit_calculator.AssemblyInfoInputs.cache
-C:\Учёба\Практика\Credit_calculator\Credit_calculator\obj\Debug\netcoreapp3.1\Credit_calculator.AssemblyInfo.cs
-C:\Учёба\Практика\Credit_calculator\Credit_calculator\obj\Debug\netcoreapp3.1\Credit_calculator.csproj.CoreCompileInputs.cache
-C:\Учёба\Практика\Credit_calculator\Credit_calculator\obj\Debug\netcoreapp3.1\Credit_calculator.dll
-C:\Учёба\Практика\Credit_calculator\Credit_calculator\obj\Debug\netcoreapp3.1\Credit_calculator.pdb
